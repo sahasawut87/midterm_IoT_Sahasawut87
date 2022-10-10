@@ -1,0 +1,28 @@
+
+.text{
+    color: blue;
+}
+body{
+    background-color: yellow;
+}
+#button {
+    background-color: greenyellow;
+}
+#button3 {
+    background-color: rgb(255, 47, 47);
+}
+#button4{
+    color: rgb(255, 0, 140);
+}
+.yoknahee {
+    padding: 20px;
+    border-radius: 20%;
+
+}
+.yhee {
+    color: aqua;
+    background-color: burlywood;
+    border-radius: 100px 20px;
+    padding: 50px;
+    margin: 20px;
+}
