@@ -1,0 +1,15 @@
+#name_1 {
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Courgette', cursive;
+    font-family: 'Luckiest Guy', cursive;
+    color: rgb(97, 83, 203);
+ }
+body {
+  
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url('https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4029a055389655.59822ff823c19.gif');
+ }
+ /*#gif{
+  background-image: url('https://cdn.dribbble.com/users/11072/screenshots/2505222/media/0a90b0d0f83263fcf4cc82e3e30d0ecd.gif');*/
+ }

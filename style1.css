@@ -1,4 +1,107 @@
+ul li {
+   list-style: none;
+   display: inline-block;
+   word-spacing: 10px;
+}
 
-body{
-    background-image: url("https://cdn.fansshare.com/pictures/1280x720/simple-black-background-883877491.jpg");
+#button1 {
+   background-color: blueviolet;
+
+}
+
+#name {
+   font-family: 'Abril Fatface', cursive;
+   font-family: 'Courgette', cursive;
+   font-family: 'Luckiest Guy', cursive;
+   color: rgb(255, 255, 255);
+}
+#namepressure0{
+   color: aliceblue;
+}
+#nametemperature0{
+   color: aliceblue;
+}
+#namelevel0{
+   color: aliceblue;
+}
+#nametrans0{
+   color: aliceblue;
+}
+#plantsite0{
+   color: aliceblue;
+}
+#range0{
+   color: aliceblue;
+}
+#type0{
+   color: aliceblue;
+}
+#unit0{
+   color: aliceblue;
+}
+#value0{
+   color: aliceblue;
+}
+
+#namepressure1{
+   color: aliceblue;
+}
+#nametemperature1{
+   color: aliceblue;
+}
+#namelevel1{
+   color: aliceblue;
+}
+#nametrans1{
+   color: aliceblue;
+}
+#plantsite1{
+   color: aliceblue;
+}
+#range1{
+   color: aliceblue;
+}
+#type1{
+   color: aliceblue;
+}
+#unit1{
+   color: aliceblue;
+}
+#value1{
+   color: aliceblue;
+}
+
+#namepressure2{
+   color: aliceblue;
+}
+#nametemperature2{
+   color: aliceblue;
+}
+#namelevel2{
+   color: aliceblue;
+}
+#nametrans2{
+   color: aliceblue;
+}
+#plantsite2{
+   color: aliceblue;
+}
+#range2{
+   color: aliceblue;
+}
+#type2{
+   color: aliceblue;
+}
+#unit2{
+   color: aliceblue;
+}
+#value2{
+   color: aliceblue;
+}
+
+
+body {
+background-size: cover;
+background-repeat: no-repeat;
+background-image: url('https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/55f44843377507.57ecc15d2bac3.gif');
 }
